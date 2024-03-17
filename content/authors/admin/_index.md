@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 马杰羚
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Jie-Ling Ma
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jie-Ling
+last_name: Ma
 
 # Status emoji
 status:
@@ -17,43 +17,67 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: M.D. candidate in Internal Medicine
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Peking Union Medical College
+    url: https://www.pumch.cn/learning.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include pulmonary hypertension, pulmonary embolism and 
+congenital heart disease.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:jielingma@163.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
-  - icon: academicons/cv
-    url: uploads/resume.pdf
-    label: Download my resume
-  - icon: rss
-    url: ./post/index.xml
-    label: Subscribe to my blog via RSS feed
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
+  # - icon: brands/linkedin
+  #   url: https://www.linkedin.com/
+  # # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
+  # - icon: academicons/cv
+  #   url: uploads/resume.pdf
+  #   label: Download my resume
+  # - icon: rss
+  #   url: ./post/index.xml
+  #   label: Subscribe to my blog via RSS feed
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
 # Author's website URL
-website: ""
+website: "https://jielingma.netlify.app/"
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jie-ling Ma is currently a PhD student of Department of Cardiology, State Key Laboratory of Complex Severe and Rare Diseases, Peking Union Medical College Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China.
+
+Dr.Ma obtained her medical degree in 2020 from Guangzhou Medical University. She is now devoting into the research of pulmonary hypertension for one goal:into the unknown,to cure and improve the life expactancy of patients with pulmonary vascular disease.
+
+马杰羚，中国医学科学院北京协和医院心内科在读博士生，目前研究领域为肺血管疾病。
+
+愿 勇攀畏途巉岩，为医学研究事业添砖加瓦。
+
+
+PUBLICATIONS
+
+1.Ma JL*, Wei YP, Zhou YP, et al. A novel interventional therapy for pulmonary stenosis due to fibrous mediastinitis: PUL-STENT (a new pulmonary stent). J Am Coll Cardiol. 2022 Mar, 79 (9_Supplement) 3195.https://doi.org/10.1016/S0735-1097(22)04186-9.(First author)
+2.Ma JL*, Wang AY,  Lu D, et al . The Puzzles of Impact of Face Masks on Six-Minute Walking Distance in Pulmonary Hypertension.European Respiratory Journal (First author, accepted)
+3.Wu XH*, Ma JL*, Ding D, et al. Experimental animal models of pulmonary hypertension: Development and challenges. Animal Model Exp Med. 2022 Sep;5(3):207-216. doi: 10.1002/ame2.12220. Epub 2022 Mar 25. (Co-first  author)
+4.Wu XH*, Li JY*, Ma JL, et al. Vaccination against coronavirus disease 2019 in patients with pulmonary hypertension: a national prospective cohort study. Chin Med J (Engl). 2023 Jul 13. 
+
+ABSTRACTS
+
+1.Ma JL*, Wei Y, Zhou Y, et al. A novel interventional therapy for pulmonary stenosis due to fibrous mediastinitis: PUL-STENT (a new pulmonary stent).The 71rd Annual Scientific Session of the American College of Cardiology(ACC 2022).Poster.(April,2022.Online due to the COVID-19 pandemic)
+2.Ma JL*, Zhi-Cheng Jing.The First Report of Angioimmunoblastic T-cell Lymphoma Primarily Presenting as Pulmonary Hypertension.The 8th Scientific Meeting of Korean Pulmonary Hypertension Society in counjunction with the 3nd East Asia Society  of Pulmonary  Hypertension.Oral.(July,2023,Korea)
+3.Ma JL*, Zhi-Cheng Jing.Pulmonary Hypertension in Special Condition:The First Report of Angioimmunoblastic T-cell Lymphoma Primarily Presenting as Pulmonary Hypertension with 2-years follow-up.The 7th World Symposium on Pulmonary Hypertension.Poster.(July 2024, Spain, invited)
+
+HORNORS
+Reviewer of  Journal of Thrombosis and Haemostasis
+
+RESEARCH EXPERIENCES
