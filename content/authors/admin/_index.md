@@ -23,14 +23,16 @@ role: M.D. candidate in Internal Medicine
 organizations:
   - name: Peking Union Medical College
     url: https://www.pumch.cn/learning.html
+  - name: email jielingma@163.com
+  - name: ORCID 0000-0001-9653-1073
 
 # E-mail:
 #   - name: email jielingma@163.com
 #     url: 'maileto:jielingma@163.com'
 
-ORCID:
-  - name: ORCID 0000-0001-9653-1073
-    url: https://orcid.org/0000-0001-9653-1073
+# ORCID:
+#   - name: ORCID 0000-0001-9653-1073
+#     url: https://orcid.org/0000-0001-9653-1073
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include pulmonary hypertension, pulmonary embolism and congenital heart disease.
