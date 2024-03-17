@@ -10,8 +10,8 @@ first_name: Jie-Ling
 last_name: Ma
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -30,9 +30,13 @@ bio: My research interests include pulmonary hypertension, pulmonary embolism an
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:jielingma@163.com'
-    label: E-mail Me
+  - name: email jielingma@163.com
+  
+  - name: ORCID 0000-0001-9653-1073
+
+  # - icon: at-symbol
+  #   url: 'mailto:jielingma@163.com'
+  #   label: E-mail Me
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
   # - icon: brands/instagram
@@ -63,20 +67,19 @@ Dr.Ma obtained her medical degree in 2020 from Guangzhou Medical University. She
 愿 勇攀畏途巉岩，为医学研究事业添砖加瓦。
 
 
-PUBLICATIONS
+# PUBLICATIONS
 
-1.Ma JL*, Wei YP, Zhou YP, et al. A novel interventional therapy for pulmonary stenosis due to fibrous mediastinitis: PUL-STENT (a new pulmonary stent). J Am Coll Cardiol. 2022 Mar, 79 (9_Supplement) 3195.https://doi.org/10.1016/S0735-1097(22)04186-9.(First author)
-2.Ma JL*, Wang AY,  Lu D, et al . The Puzzles of Impact of Face Masks on Six-Minute Walking Distance in Pulmonary Hypertension.European Respiratory Journal (First author, accepted)
-3.Wu XH*, Ma JL*, Ding D, et al. Experimental animal models of pulmonary hypertension: Development and challenges. Animal Model Exp Med. 2022 Sep;5(3):207-216. doi: 10.1002/ame2.12220. Epub 2022 Mar 25. (Co-first  author)
-4.Wu XH*, Li JY*, Ma JL, et al. Vaccination against coronavirus disease 2019 in patients with pulmonary hypertension: a national prospective cohort study. Chin Med J (Engl). 2023 Jul 13. 
+1. Ma JL*, Wei YP, Zhou YP, et al. A novel interventional therapy for pulmonary stenosis due to fibrous mediastinitis: PUL-STENT (a new pulmonary stent). J Am Coll Cardiol. 2022 Mar, 79 (9_Supplement) 3195.https://doi.org/10.1016/S0735-1097(22)04186-9.(First author)
 
-ABSTRACTS
+2. Wu XH*, Ma JL*, Ding D, et al. Experimental animal models of pulmonary hypertension: Development and challenges. Animal Model Exp Med. 2022 Sep;5(3):207-216. doi: 10.1002/ame2.12220. Epub 2022 Mar 25. (Co-first  author)
 
-1.Ma JL*, Wei Y, Zhou Y, et al. A novel interventional therapy for pulmonary stenosis due to fibrous mediastinitis: PUL-STENT (a new pulmonary stent).The 71rd Annual Scientific Session of the American College of Cardiology(ACC 2022).Poster.(April,2022.Online due to the COVID-19 pandemic)
-2.Ma JL*, Zhi-Cheng Jing.The First Report of Angioimmunoblastic T-cell Lymphoma Primarily Presenting as Pulmonary Hypertension.The 8th Scientific Meeting of Korean Pulmonary Hypertension Society in counjunction with the 3nd East Asia Society  of Pulmonary  Hypertension.Oral.(July,2023,Korea)
-3.Ma JL*, Zhi-Cheng Jing.Pulmonary Hypertension in Special Condition:The First Report of Angioimmunoblastic T-cell Lymphoma Primarily Presenting as Pulmonary Hypertension with 2-years follow-up.The 7th World Symposium on Pulmonary Hypertension.Poster.(July 2024, Spain, invited)
+3. Wu XH*, Li JY*, Ma JL, et al. Vaccination against coronavirus disease 2019 in patients with pulmonary hypertension: a national prospective cohort study. Chin Med J (Engl). 2023 Jul 13. 
 
-HORNORS
-Reviewer of  Journal of Thrombosis and Haemostasis
+# ABSTRACTS
 
-RESEARCH EXPERIENCES
+1. Ma JL*, Wei Y, Zhou Y, et al. A novel interventional therapy for pulmonary stenosis due to fibrous mediastinitis: PUL-STENT (a new pulmonary stent).The 71rd Annual Scientific Session of the American College of Cardiology(ACC 2022).Poster.(April,2022.Online due to the COVID-19 pandemic)
+
+2. Ma JL*, Zhi-Cheng Jing.The First Report of Angioimmunoblastic T-cell Lymphoma Primarily Presenting as Pulmonary Hypertension.The 8th Scientific Meeting of Korean Pulmonary Hypertension Society in counjunction with the 3nd East Asia Society  of Pulmonary  Hypertension.Oral.(July,2023,Korea)
+3. Ma JL*, Zhi-Cheng Jing.Pulmonary Hypertension in Special Condition:The First Report of Angioimmunoblastic T-cell Lymphoma Primarily Presenting as Pulmonary Hypertension with 2-years follow-up.The 7th World Symposium on Pulmonary Hypertension.Poster.(July 2024, Spain, invited)
+
+
