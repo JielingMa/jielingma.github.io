@@ -24,15 +24,26 @@ organizations:
   - name: Peking Union Medical College
     url: https://www.pumch.cn/learning.html
 
+organizations:
+  - name: email jielingma@163.com
+    url: 'maileto:jielingma@163.com'
+
+organizations:
+  - name: ORCID 0000-0001-9653-1073
+    url: https://www.pumch.cn/learning.html
+
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include pulmonary hypertension, pulmonary embolism and congenital heart disease.
 
+
+
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-profiles:
-  - name: email jielingma@163.com
+
+#profiles:
+#  - name: email jielingma@163.com
   
-  - name: ORCID 0000-0001-9653-1073
+#  - name: ORCID 0000-0001-9653-1073
 
   # - icon: at-symbol
   #   url: 'mailto:jielingma@163.com'
