@@ -24,13 +24,13 @@ organizations:
   - name: Peking Union Medical College
     url: https://www.pumch.cn/learning.html
 
-email:
+E-mail:
   - name: email jielingma@163.com
-    url: 'maileto:jielingma@163.com'
+    # url: 'maileto:jielingma@163.com'
 
 ORCID:
   - name: ORCID 0000-0001-9653-1073
-    url: https://www.pumch.cn/learning.html
+    # url: https://www.pumch.cn/learning.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include pulmonary hypertension, pulmonary embolism and congenital heart disease.
