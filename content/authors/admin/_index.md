@@ -93,6 +93,4 @@ Dr.Ma obtained her medical degree in 2020 from Guangzhou Medical University. She
 1. Ma JL*, Wei Y, Zhou Y, et al. A novel interventional therapy for pulmonary stenosis due to fibrous mediastinitis: PUL-STENT (a new pulmonary stent).The 71rd Annual Scientific Session of the American College of Cardiology(ACC 2022).Poster.(April,2022.Online due to the COVID-19 pandemic)
 
 2. Ma JL*, Zhi-Cheng Jing.The First Report of Angioimmunoblastic T-cell Lymphoma Primarily Presenting as Pulmonary Hypertension.The 8th Scientific Meeting of Korean Pulmonary Hypertension Society in counjunction with the 3nd East Asia Society  of Pulmonary  Hypertension.Oral.(July,2023,Korea)
-3. Ma JL*, Zhi-Cheng Jing.Pulmonary Hypertension in Special Condition:The First Report of Angioimmunoblastic T-cell Lymphoma Primarily Presenting as Pulmonary Hypertension with 2-years follow-up.The 7th World Symposium on Pulmonary Hypertension.Poster.(July 2024, Spain, invited)
-
 
