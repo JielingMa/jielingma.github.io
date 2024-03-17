@@ -3,7 +3,7 @@
 title: 马杰羚
 
 # Name pronunciation (optional)
-# name_pronunciation: Jie-Ling Ma
+name_pronunciation: Jie-Ling Ma
 
 # Full name (for SEO)
 first_name: Jie-Ling
