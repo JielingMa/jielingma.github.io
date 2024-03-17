@@ -24,9 +24,9 @@ organizations:
   - name: Peking Union Medical College
     url: https://www.pumch.cn/learning.html
 
-E-mail:
-  - name: email jielingma@163.com
-    url: 'maileto:jielingma@163.com'
+# E-mail:
+#   - name: email jielingma@163.com
+#     url: 'maileto:jielingma@163.com'
 
 ORCID:
   - name: ORCID 0000-0001-9653-1073
