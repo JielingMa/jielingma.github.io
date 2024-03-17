@@ -33,7 +33,7 @@ header:
     show_search: true
     show_theme_chooser: true
 
-Site footer
+# Site footer
 footer:
   copyright:
     notice: '© {year} Me. This work is licensed under {license}'
