@@ -23,8 +23,8 @@ role: M.D. candidate in Internal Medicine
 organizations:
   - name: Peking Union Medical College
     url: https://www.pumch.cn/learning.html
-  - name: email jielingma@163.com
-  - name: ORCID 0000-0001-9653-1073
+  - name: email:jielingma@163.com
+  - name: ORCID:0000-0001-9653-1073
 
 # E-mail:
 #   - name: email jielingma@163.com
@@ -78,6 +78,14 @@ Jie-ling Ma obtained her medical degree in 2020 from Guangzhou Medical Universit
 马杰羚，中国医学科学院北京协和医院心内科在读博士生，目前研究领域为肺血管疾病。
 
 愿勇攀畏途巉岩，为医学研究事业添砖加瓦。
+
+image:
+  placement: 1
+  caption: 'Jie-ling Ma in Peking Union Medical College.'
+  focal_point: 'Center'
+  preview_only: false
+  alt_text: ' '
+  filename: self.jpg
 
 
 # PUBLICATIONS
