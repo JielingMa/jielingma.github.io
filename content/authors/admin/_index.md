@@ -81,7 +81,7 @@ Jie-ling Ma obtained her medical degree in 2020 from Guangzhou Medical Universit
 
 愿勇攀畏途巉岩，为医学研究事业添砖加瓦。
 
-![Jie-ling Ma in Peking Union Medical College.](./self.jpg "Jie-ling Ma in Peking Union Medical College.")
+![](/assets/media/self.jpg "Jie-ling Ma in Peking Union Medical College.")
 
 
 # PUBLICATIONS
