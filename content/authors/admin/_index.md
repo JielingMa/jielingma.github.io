@@ -82,9 +82,6 @@ Jie-ling Ma obtained her medical degree in 2020 from Guangzhou Medical Universit
 愿勇攀畏途巉岩，为医学研究事业添砖加瓦。
 
 
-image:
-  caption: 'Jie-ling Ma in Peking Union Medical College.'
-
 # PUBLICATIONS
 
 1. **Ma JL***, Wei YP, Zhou YP, et al. A novel interventional therapy for pulmonary stenosis due to fibrous mediastinitis: PUL-STENT (a new pulmonary stent). *J Am Coll Cardiol*. 2022 Mar, 79 (9_Supplement) 3195.https://doi.org/10.1016/S0735-1097(22)04186-9.(First author)
