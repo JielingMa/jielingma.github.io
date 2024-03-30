@@ -71,7 +71,6 @@ highlight_name: true
 website: "https://jielingma.netlify.app/"
 
 
-
 ---
 
 Jie-ling Ma is currently a PhD student of Department of Cardiology, State Key Laboratory of Complex Severe and Rare Diseases, Peking Union Medical College Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China.
@@ -81,17 +80,10 @@ Jie-ling Ma obtained her medical degree in 2020 from Guangzhou Medical Universit
 马杰羚，中国医学科学院北京协和医院心内科在读博士生，目前研究领域为肺血管疾病。
 
 愿勇攀畏途巉岩，为医学研究事业添砖加瓦。
----
 
-image:
-  placement: 1
-  caption: 'Jie-ling Ma in Peking Union Medical College.'
-  focal_point: 'Center'
-  preview_only: false
-  alt_text: ' '
-  filename: self.jpg
+![Jie-ling Ma in Peking Union Medical College.](./self.jpg "Jie-ling Ma in Peking Union Medical College.")
 
----
+
 # PUBLICATIONS
 
 1. **Ma JL***, Wei YP, Zhou YP, et al. A novel interventional therapy for pulmonary stenosis due to fibrous mediastinitis: PUL-STENT (a new pulmonary stent). *J Am Coll Cardiol*. 2022 Mar, 79 (9_Supplement) 3195.https://doi.org/10.1016/S0735-1097(22)04186-9.(First author)
@@ -106,4 +98,3 @@ image:
 
 2. **Ma JL***, Zhi-Cheng Jing.The First Report of Angioimmunoblastic T-cell Lymphoma Primarily Presenting as Pulmonary Hypertension.The 8th Scientific Meeting of Korean Pulmonary Hypertension Society in counjunction with the 3nd East Asia Society  of Pulmonary  Hypertension.Oral.(July,2023,Korea)
 
----
