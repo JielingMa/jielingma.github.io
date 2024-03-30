@@ -23,8 +23,8 @@ role: M.D. candidate in Internal Medicine
 organizations:
   - name: Peking Union Medical College
     url: https://www.pumch.cn/learning.html
-  - name: Email : jielingma@163.com
-  - name: ORCID : 0000-0001-9653-1073
+  - name: "Email : jielingma@163.com"
+  - name: "ORCID : 0000-0001-9653-1073"
 
 # E-mail:
 #   - name: email jielingma@163.com
